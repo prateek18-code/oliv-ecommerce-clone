@@ -32,7 +32,3 @@ This is a modern frontend clone of the Øliv website, built using pure HTML and 
 - Responsive design basics
 
 
-
----
-
-Made with ❤️ by Prateek

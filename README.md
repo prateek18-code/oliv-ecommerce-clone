@@ -5,7 +5,6 @@ This is a modern frontend clone of the Øliv website, built using pure HTML and 
 ##  Features
 
 - Clean and minimal UI design
-- Fully responsive layout
 - Flexbox-based structure
 - Multiple sections (Navbar, Cards, Work, Services, etc.)
 - Smooth hover effects and transitions
